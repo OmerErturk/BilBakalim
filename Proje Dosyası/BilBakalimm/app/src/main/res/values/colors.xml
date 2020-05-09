@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#610f8a</color>
+    <color name="colorPrimaryDark">#00B4DB</color>
+    <color name="colorAccent">#585666</color>
+    <color name="whiteTextColor">#fff</color>
+    <color name="primaryTextColor">#2661FA</color>
+    <color name="loginBkColor">#f0f0f0</color>
+    <color name="yaziArkaplann">#00B4DB</color>
+    <color name="whiteCardColor">#fff</color>
+</resources>
+

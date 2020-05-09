@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "266728530773",
+    "firebase_url": "https://bilbakalim-2489d.firebaseio.com",
+    "project_id": "bilbakalim-2489d",
+    "storage_bucket": "bilbakalim-2489d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266728530773:android:4f09c47a16fb3bd8fc45dc",
+        "android_client_info": {
+          "package_name": "com.erturk.bilbakalim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "266728530773-tlij38rkagq6celu3l11fpk83rfgp86b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_1NQ4mO-i4mlqu8UFeauDeMBoLQZz4Hs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "266728530773-tlij38rkagq6celu3l11fpk83rfgp86b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
